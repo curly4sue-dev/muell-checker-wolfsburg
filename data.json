@@ -15,6 +15,11 @@
     "sperrmuell": false
   },
   {
+    "begriff": "Abfälle aus der Testung auf SARS-CoV-2-Infektion",
+    "text": "<a href=\"https://was-wolfsburg.de/pdf/merkblatt_schnelltest_2021.pdf\" target=\"_blank\" > Hinweise zur Entsorgung von Abfällen aus Maßnahmen zur Eindämmung von COVID-19</a>",
+    "sperrmuell": false
+  },
+  {
     "begriff": "Aceton",
     "text": "Problemabfallsammlung",
     "sperrmuell": false
@@ -30,9 +35,34 @@
     "sperrmuell": false
   },
   {
+    "begriff": "Akkus/Lithiumbatterien über 500 g (z.B. von E-Bikes/Gartengeräten etc.)",
+    "text": "Rücknahmeverpflichtung des Handels oder Abgabe im EZW, keine Abgabe an mobiler Sammelstelle! ",
+    "sperrmuell": false
+  },
+  {
     "begriff": "Aktenkoffer",
     "text": "Restmüllbehälter oder Sperrmüllabfuhr",
     "sperrmuell": true
+  },
+  {
+    "begriff": "Aktenordner",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aktenvernichtung",
+    "text": "Fels Recycling, Tel. 05362 96530 oder Rhenus Data, Tel. 0531 2369910",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aktenvernichtung ",
+    "text": "Fels Recycling, Tel. 05362 96530 oder Rhenus Data, Tel. 0531 2369910",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Alkohol",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
   },
   {
     "begriff": "Altarzneimittel",
@@ -40,84 +70,3114 @@
     "sperrmuell": false
   },
   {
-    "begriff": "Altglas (Flaschen, Konserven)",
-    "text": "Altglascontainer (nach Farben getrennt)",
+    "begriff": "Altglas",
+    "text": "Altglascontainer",
     "sperrmuell": false
   },
   {
-    "begriff": "Altpapier / Pappe / Zeitungen",
-    "text": "Altpapierbehälter (Blaue Tonne)",
+    "begriff": "Altholz",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
     "sperrmuell": false
   },
   {
-    "begriff": "Aquarium (bis 1m)",
-    "text": "Sperrmüllabfuhr",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Bade- / Duschwanne",
-    "text": "Sperrmüllabfuhr (Metall/Kunststoff getrennt)",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Besteck (Gabel, Löffel, Messer)",
-    "text": "Restmüllbehälter oder Metallschrott",
+    "begriff": "Altkleider (noch brauchbar)",
+    "text": "Alttextilbehälter der WAS oder caritative Sammlungen",
     "sperrmuell": false
   },
   {
-    "begriff": "Bett / Bettgestell",
-    "text": "Sperrmüllabfuhr",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Bobbycar",
-    "text": "Sperrmüllabfuhr (Kunststoff) oder Wertstoffhof",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Couch / Sofa / Sessel",
-    "text": "Sperrmüllabfuhr",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Eimer (Kunststoff / Plastik)",
-    "text": "Gelber Sack / Wertstofftonne",
+    "begriff": "Altmedikamente",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
     "sperrmuell": false
   },
   {
-    "begriff": "Eimer (Metall)",
-    "text": "Restmüllbehälter oder Schrott",
+    "begriff": "Altmetall (keine KFZ-Teile)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW oder Abgabe beim Schrotthändler",
     "sperrmuell": false
   },
   {
-    "begriff": "Fahrrad",
-    "text": "Sperrmüllabfuhr (Metallschrott)",
-    "sperrmuell": true
-  },
-  {
-    "begriff": "Gabel",
-    "text": "Restmüllbehälter (Metall)",
+    "begriff": "Altpapier, Pappe, Kartonagen",
+    "text": "Altpapierbehälter (Großmengen können gebührenfrei zum EZW angeliefert werden)",
     "sperrmuell": false
   },
   {
-    "begriff": "Gartenmöbel",
-    "text": "Sperrmüllabfuhr",
-    "sperrmuell": true
+    "begriff": "Altreifen (mit und ohne Felge)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
   },
   {
-    "begriff": "Haarfärbemittel",
+    "begriff": "Alttextilien (noch brauchbar)",
+    "text": "Alttextilbehälter der WAS oder caritative Sammlungen ",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Altöl",
+    "text": "Rückgabe an Handel, Hersteller oder Vertrieb, sonst Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aluminiumverpackungen",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ammoniak",
     "text": "Problemabfallsammlung",
     "sperrmuell": false
   },
   {
-    "begriff": "Katzentoilette / Einstreu",
+    "begriff": "Antennen",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Apfelsinenschalen",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aquarium (bis max. 1,00 m Kantenlänge)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Arzneimittel",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Asbest",
+    "text": "ohne Entsorgungserlaubnis der WAS keine Annahme/Abgabe möglich! Info unter 05361 28-3200 oder auf www.was-wolfsburg.de",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Asbestabfälle",
+    "text": "Entsorgungsbestätigung erforderlich! Info unter Tel.28-3200",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Asche (erkaltet)",
     "text": "Restmüllbehälter",
     "sperrmuell": false
   },
   {
-    "begriff": "Matratze",
+    "begriff": "Audiocassetten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autoakku (nur herkömmliche Starterbatterien, keine Akkus aus E-Autos!)",
+    "text": "Gebührenfreie Abgabe im Entsorgungszentrum Weyhäuser Weg 3",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autobatterien",
+    "text": "Rückgabe in Handel/Vertrieb oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autopflegemittel, -politur",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autoreifen",
+    "text": "s. unter Altreifen",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autospachtel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Autowracks, -teile",
+    "text": "zertifizierter Schrotthandel/Altautoverwerter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Backbleche/Backformen",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Backofenreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Badewannen / Sanitäreinrichtung",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ballongas (Einwegflasche)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Batterien",
+    "text": "Rücknahmesystem GRS im Handel oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bau- u. Abbruchholz",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Baum- u. Strauchschnitt",
+    "text": "Gebührenfreie Abholung 1 x jährlich im Herbst (Mengenbegrenzung!) oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bauschutt (mineralisch,unbelastet)",
+    "text": "Fa. Otto Wolf, Tel. 05362 9789-0; Fa. WBR, Tel. 05361 52251; Fa. Müsing, Tel. 05363979617",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Baustellenabfall (ohne mineralischen Anteil)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Besteck",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Betonmischer/Mischmaschine",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bett/Bettgestell",
     "text": "Sperrmüllabfuhr",
     "sperrmuell": true
+  },
+  {
+    "begriff": "Bettwäsche",
+    "text": "Altkleidercontainer der WAS oder caritative Sammlungen ",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bilderrahmen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bildschirmgerät",
+    "text": "Elektro-Sperrmüll oder kostenfreie Abgabe im EZW",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bioabfall (nur pflanzlich)",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bioethanol",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bitumen (Dachpappe,ausgehärtet)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bitumen (flüssig)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blaupapier",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bleibatterien",
+    "text": "Rückgabe an Handel, Hersteller oder Vertrieb, sonst Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bleichmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bleifolie, -menige",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bleikristallglas",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bleistifte",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumen",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumendünger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumenerde",
+    "text": "Restabfall (Kleinmengen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumentöpfe (Kunststoff oder Metall)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumentöpfe (Ton,Keramik)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Blumentöpfe aus Kunststoff (große, nicht mülltonnengängige)",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Blutzuckermessgerät",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bobbycar",
+    "text": " Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bodenaushub (unbelastet)",
+    "text": "Bodenannahmestelle der Fa. Otto Wolf, Tel. 05362 97890",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bodenbelag als Laminat, Parkett und Diele (nur gebündelt bis 1,50 m/25 kg pro Bündel)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bodenbeläge (Teppich, PVC)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bodenschleifgerät",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bohrmaschine/Bohrhammer",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Boiler, Durchlauferhitzer (5-Liter-Gerät)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bremsflüssigkeit",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Brennpaste",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Brennspiritus",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bretter",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Briefkasten",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Brillen",
+    "text": "beim Optiker nach Rücknahme fragen, sonst Restmüllbehälter (nicht recycelbar, weil Verbundstoff aus Glas/Metall/Kunststoff)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Buntglas (grün, gelb, rot, blau etc.)",
+    "text": "nur in den Grünglasbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Buntlack",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Butterbrotpapier",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bücher",
+    "text": "Altpapierbehälter, Flohmärkte, Internethandel etc.",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bügelbrett",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bügeleisen",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "CD",
+    "text": "",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "CD- und DVD Hüllen",
+    "text": " Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "CD-Player/DVD-Player",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "CD/DVD",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "CD/DVD-Hüllen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Cassetten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ceranfeld (vom E-Herd)",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Chemikalien",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Computer / PC",
+    "text": "Gebührenfreie Abholung oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Computermaus",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Couch (inkl. Couchkissen)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Cremes",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Crosstrainer (mit Elektrik)",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dachfolie",
+    "text": "Restmüllbehälter oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dachgepäckträger, Fahrradträger",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dachgepäckträger/Dachbox",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Dachpappe,-folie",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dachrinnen",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Deckenfarbe",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Deckenfluter (ohne Leuchtmittel)",
+    "text": "Gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Deckenpaneele",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Deospray",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Desinfektionsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dias",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Diele (Bodenbelag - Nägel müssen entfernt werden)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Diele (Bodenbelag)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Diesel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Disketten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dispersionsfarbe",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Doppelstegplatten (Plexiglas)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Draht",
+    "text": "Restmüllbehälter oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Drehbank/Drechselbank",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Drucker/3-D-Drucker",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Druckerpatronen ",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Druckgasflasche",
+    "text": "Rückgabe an Handel, Hersteller oder Vertrieb, sonst Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dunstabzugshaube",
+    "text": "Gebührenfreie Haushaltsgroßgeräteabfuhr oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Durchlauferhitzer (5-Liter-Gerät)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Duschkabine/-wand/-becken/-abtrennung",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Duschvorhang",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dämmstoffe (Künstliche Mineralfaserabfälle)",
+    "text": "Entsorgungsbestätigung erforderlich, Info unter Tel. 28-3200",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Dämmstoffe - Künstliche Mineralfasern (KMF)",
+    "text": "<a href=\"https://was-wolfsburg.de/was/asbest.php\" id=\"adndmwi\" target=\"_blank\" > Das müssen Sie wissen</a>",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Düngemittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "EC-Karte/Giro-Card",
+    "text": "E-Schrott-Sammlung (vorher unbrauchbar machen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Eierkartons (Pappe)",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Eierschalen",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Eierverpackung (Kunststoff)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Eimer (Kunststoff oder Metall)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Elektro-Kamin",
+    "text": "Gebührenfreie Abholung (wenn größer als 50 cm Kantenlänge) oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Elektroheizgerät",
+    "text": "Gebührenfreie Abgabe im EZW oder an mobiler Sammelstelle (max. 50 cm Kantenlänge)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Elektrokleingeräte",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm Kantenlänge) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Elektrorasenmäher",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Elektrospeicheröfen",
+    "text": "Entsorgungsbestätigung erforderlich (Tel. 283200)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Energiesparlampe (quecksilberhaltig) ",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Enteiser, Entfärber,Entkalker, Entroster, Entwickler",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Erdaushub (unbelastet, ohne Laub u. Grasnarbe)",
+    "text": "Bodenannahmestellen (Fa. Otto Wolf, Fa. Müsing)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ergometer/Trimmrad (mit Elektronik)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ergometer/Trimmrad (ohne Elektronik)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Eternitplatten, -abfälle",
+    "text": "Entsorgungsbestätigung erforderlich! (Tel.28-3200)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Experimentierkästen",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fahrrad",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Fahrradanhänger",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Fahrradschlauch/-reifen",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fahrradöl",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Farben, Lacke (ausgehärtet)",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Farben, Lacke (flüssig)",
+    "text": "Mobile Problemabfallsammelstelle (nicht für Gewerbe u. nur Kleinmengen bis 25 Liter)/ EZW (wenn über 60Liter, von privat gebührenfrei)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Farben, Lacke (restentleerte, tropffreie Gebinde)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Faxgeräte",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Federbetten",
+    "text": "holt ab für karitative Zwecke: Rüdiger Müller, Tel.05371 6184380 oder 0175 5416322 sowie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Felgenpflegemittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Felgenreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fenster, -bänke, -läden",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fernseher",
+    "text": "Gebührenfreie Abholung oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Festzelt-/Bierzeltgarnitur",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Fette",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuchttücher",
+    "text": "Restmüll (nicht in die Toilette entsorgen, da die Tücher aus reißfesten Kunstfasern bestehen, die Abwasserpumpen verstopfen!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerkorb",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerlöscher",
+    "text": "Rückgabe an Handel/Hersteller/Vertrieb oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerwerksartikel (unbenutzt)",
+    "text": "Restabfallbehälter (vorher wässern)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerwerkskörper",
+    "text": "unbrauchbar in den Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerzeugbenzin, -gas",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Feuerzeuge",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Filzstifte",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fisch und Gräten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fixierer",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Flachglas",
+    "text": "",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Flachglas (Scheibenglas)",
+    "text": "Restmüllbehälter oder gebührenflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Flaschen (Getränkeglas)",
+    "text": "Altglascontainer",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Flaschenverschlüsse",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fleckentferner",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fleisch und Knochen",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fliegenschutzgitter (Fenster/Türen)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Fliesen",
+    "text": "Bauschuttverwerter (Wolf, Müsing, WBR)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fliesenkleber",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fliesenkleber (ausgehärtet)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Flüssigkleber",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Folien (Verpackungsfolien)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Folien (für Overheadprojektor)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fotoapparat (ohne Elektrik)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fotochemikalien",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fotos",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fritierfett, -öl",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Frostschutzmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fräse/Oberfräse",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fugenmasse",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fugenmasse (ausgehärtet)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Föhn",
+    "text": "Kostenfreie Abgabe an mobiler Sammelstelle oder E-Schrottsammlung im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gardinen",
+    "text": "Restmüllbehälter oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gardinenstange",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gardinenweiß",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenabfälle (Laub)",
+    "text": "Laubsammlung der WAS (s. Entsorgungsplaner oder Website)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenabfälle (sperrige): bis 1,50 m Länge/bis 25 kg pro Bündel, max. 4 Bündel",
+    "text": "Gebührenfreie Abholung einmalig im Herbst (Termine im Entsorgungsplaner oder Website), sonst gebührenpflichtige Anlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenbank (klein/leicht)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gartengeräte (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen); Akkus getrennt entsorgen",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenhaus",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenhäcksler",
+    "text": "gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenmöbel (kein schweres Massivholz)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gartenmöbelpolsterbox",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gartenschlauch",
+    "text": "Restmüll",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartensense",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gartenstuhl (inkl. Auflagen)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gartentisch",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gasbeton/Ytong/Poroton",
+    "text": "s. unter Porenleichtbeton",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gasdruckfedern",
+    "text": "Abgabe an mobiler Problemabfallsammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gasherd/Kohleherd",
+    "text": "über Elektrosperrmüll oder gebührenfreie Anlieferung zum EZW",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gaskartuschen (Campingkocher)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gemüseabfälle",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Geschenkpapier",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Geschirr",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Geschirrspülmaschine",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Getriebeöl",
+    "text": "Rückgabe an Handel, Hersteller oder Vertrieb (Kaufbeleg aufbewahren) oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Getränkeverpackungen",
+    "text": "Gelbe Wertstofftonne bzw. Rückgabe im Handel (Pfandregelungen beachten!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gewächshaus",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gießkanne",
+    "text": " Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gifte",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gipskarton (Rigipsplatten, Leichtbauplatten)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Glasbausteine",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Glasreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Glaswolle",
+    "text": "Entsorgungsbestätigung erforderlich (Tel. 283200)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Glühbirne (alt, mit Glühdraht)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grassoden",
+    "text": "Anlieferung zum Entsorgungszentrum Wolfsburg getrennt vom übrigen Grünschnitt",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grill (Gas)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grill (elektrisch)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grill (klein, für Holzkohle)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Grundierungen",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grünabfall",
+    "text": "Biotonne oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grüngut",
+    "text": "Biotonne oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Grünschnitt",
+    "text": "Biotonne oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gummi, Gummistiefel",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Haare",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Haarfärbe-, pflegemittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Halogenleuchtmittel",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Handrasenmäher (ohne Elektrik/nicht benzinbetrieben)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Handys",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Haushaltschemikalien",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hauswasserwerk",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heckenschere (nicht elektrisch)",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Hefte",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heimorgel",
+    "text": "kostenfreie Abgabe an E-Schrott Sammelstelle im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heimtrainer (elektrisch)",
+    "text": "kostenfreie Abgabe an E-Schrott-Sammelstelle im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heimtrainer (ohne Elektrik)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Heizkörper",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heißklebepistole",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heißmangel",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heliumflasche restentleert (sog. Ballongas-Flasche)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heliumflaschen (restentleert)",
+    "text": " Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Helme (Fahrrad,Motorrad etc.)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heraklith-Platten („Sauerkraut“-Platten) ",
+    "text": "Entsorgungszentrum Weyhäuser Weg 3",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Herbizide",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Heu/Stroh",
+    "text": "keine Annahme im EZW ",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "HiFi-Anlage (bis 50 cm Kantenlänge)",
+    "text": "Gebührenfreie Abgabe an mobiler Sammelstelle oder E-Schrott Sammelstelle im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "HiFi-Anlage (größer 50 cm Kantenlänge)",
+    "text": "Elektrosperrmüll oder gebührenfreie Abgabe an E-Schrott Sammelstelle im EZW",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "HiFi-Anlage/Radio (ab 50 cm Kantenlänge)",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hifi-Anlagen (bis 50 cm Kantenlänge)",
+    "text": "gebührenfreie Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hobel (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hobelspäne / Holzwolle",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hochdruckreiniger",
+    "text": "Gebührenfreie Abgabe an mobiler Sammelstelle oder E-Schrott Sammelstelle im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hollywoodschaukel",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Holz (Bau- und Abbruchholz)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Holzfußleisten - Fußleisten",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Holzpalette, Europalette",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Holzschutzmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Holzspalter (elektrisch)",
+    "text": "gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hundekot",
+    "text": "Restmüllbehälter (im Beutel!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Hygieneartikel (Taschentücher, Watte, Wattestäbchen, Windeln, Handtuchpapier etc.)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Härter",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Imprägnierungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Inlineskates",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Insektenschutzgitter (Fenster/Türen)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Insektenvernichtungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Insulinspritzen (leer)",
+    "text": "im durchstichsicheren Gefäß in den Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Isolierschaum",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Jalousien",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Joghurtbecher",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "KFZ",
+    "text": "s. unter Autowracks",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kabel, Kabeltrommel",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kadaver",
+    "text": "abhängig von Art des Kadavers: Veterinäramt anfragen: Tel. 115",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaffeefilter, -satz",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaffeekapseln",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaffeemaschine",
+    "text": "Abgabe an mobiler Sammelstelle oder gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaffeepads",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaffeeverpackung",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kalkreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kaninchenstall",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kanister (mit schädlichen Verunreinigungen)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kassetten (Musik, Video)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Katzenstreu",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Keramik, -geschirr",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kerzen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kettensäge (Benzingetrieben)",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kettensäge (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kettensägen (benzinmotorgetrieben)",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kickertisch",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kinderrutsche / Rutsche ",
+    "text": "Selbstanlieferung EZW - kostenpflichtig",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kindersitz",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kinderwagen",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kissen",
+    "text": "karitative Sammlung (wenn gebrauchsfähig), sonst Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klarlack",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klarsichtfolien",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klavier",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klebebänder",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klebstoffe",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kleiderbügel (Holz)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kleiderbügel (Kunststoff, Metall)",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kleidung (noch gebrauchsfähig)",
+    "text": "Alttextilbehälter, Lumpen zum Restmüll",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kleintierkäfig (gekauft, nicht selbst gebaut)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kleintierstreu",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klettergerüst (aus Metall oder Holz)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Klimagerät",
+    "text": "Gebührenfreie Abholung oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Knochen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Knopfzellen (Batterien)",
+    "text": "Rücknahmesysteme im Handel, sonst Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kochtopf",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Koffer",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kohleofen",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kohlepapier (Durchschreibpapier)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Komposter",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW oder zerkleinert in den grauen Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kompressor",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kondensatoren",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kondome",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Konservendosen",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Konservengläser",
+    "text": "Altglascontainer",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kopierer (kleines Tischgerät)",
+    "text": "Abgabe an mobiler Sammelstelle oder gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kopiergerät (groß)",
+    "text": "s. unter Drucker",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kork, Korken",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Korrekturflüssigkeit (Tipp-Ex)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kosmetikartikel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kosmetiktücher",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kratzbaum (Katze)",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Kronkorken",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kronleuchter (ohne Leuchtmittel)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kugelschreiber",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kunstblumen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kunstharze (ausgehärtet)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kunstharze (flüssig)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kunststoffrohre",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Küchenabfälle (pflanzlich, ohne Plastiktüte!)",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Küchenarbeitsplatte",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Küchentücher (aus Papier, Kleinmengen)",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kühlflüssigkeit",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Kühlgeräte/Kühlschränke",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Künstliche Mineralfaserabfälle (Dämmwolle)",
+    "text": "ohne Entsorgungserlaubnis der WAS keine Annahme/Abgabe möglich! Info unter 05361 28-3200 oder auf www.was-wolfsburg.de",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laborchemikalien",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lacke",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lametta",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laminat (nur gebündelt)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Lampenöl",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lappen (ölverunreinigt)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laptop",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lasuren",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laub",
+    "text": "Biotonne, Eigenkompostierung, kostenfreie Abgabe im Spätherbst im EZW (Termine beachten!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laufband (elektrisch)",
+    "text": "Gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Laugen",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lautsprecherboxen",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm Kantenlänge) oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lichtschalter",
+    "text": "Elektronikschrottsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lockenstab",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Luftentfeuchter",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Luftmatratze",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Lumpen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Lösungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "MP3 Player",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Malstifte",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Markise",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Matratzen",
+    "text": "Sperrmüllabfuhr oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Maurerkübel/Maurerwanne",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Medikamente",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Mehrwegflaschen",
+    "text": "Abgabe im Handel",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Metallputzmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Metallschrott wie kleine Werkzeuge (keine E-Geräte, keine Akkus!), Schrauben, Nägel etc.",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Mikrowelle",
+    "text": "Gebührenfreie Abholung oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Mixer",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Monitor",
+    "text": "Gebührenfreie Abholung oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Multifunktionsdrucker,-kopierer,-scanner",
+    "text": "Elektrogroßgeräteabfuhr oder Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Mund-/Nasenschutzmasken",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Munition",
+    "text": "Polizei benachrichtigen",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Musikcassetten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Möbel",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Möbelpflegemittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nachtspeicherofen",
+    "text": "s. unter Elektrospeicherofen",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nagellack, -entferner",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nitrolack, -verdünner",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nordic Walking Stöcke",
+    "text": "Restmüllbehälter oder Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Notebook",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nuckelflasche",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nähmaschine (klein, ohne Tisch)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Nähmaschinenöl",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Obstabfälle",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Obstkisten (Holz)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Obstschalen (Kunststoff)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Overheadfolien",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "PET-Flaschen",
+    "text": "Pfandregelung beachten, sonst Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "PU-Schaumdosen",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "PVC-Bodenbelag",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Papier / Pappe",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Papiertaschentücher",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Parfüm",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Parkett-Bodenbelag (Stäbchenparkett)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Pavillon aus Holz",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pavillon aus Metall (bis 3x3 m)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Pergola",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Petroleum",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pfannen",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pflanzenschutzmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pflanztöpfe (aus Kunststoff, aus denen die Pflanzen wieder entnommen werden, bis ca. 20 Liter)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Photovoltaik-Panel",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pizza-Kartons (beschichtet)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pizzakarton (Pappe, ohne Essensreste)",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Plastiktüten, -verpackungen",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Plattenspieler",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Polsterschaum",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Polyurethanschaum",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pool (groß)",
+    "text": "gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pool (nur kleiner Kinderpool)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Porenbeton",
+    "text": "Baustoffrecyclinganlage Fa. Otto Wolf, Weyhausen, Tel. 05362 97890",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Porenleichtbeton",
+    "text": "getrennte Annahme in Baustoffrecyclinganlage Fa. Otto Wolf, Weyhausen, Tel. 05362 97890",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Poroton",
+    "text": "Baustoffrecyclinganlage Fa. Otto Wolf, Weyhausen, Tel. 05362 97890",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Porzellan",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Problemabfälle",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Pumpe/Teichpumpe (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Putzlappen, Schwämme, Bürsten, Klobürsten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Putzmittelreste",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Quecksilber",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Radio",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasenmäher (benzinbetrieben)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW (Öl und Benzin separat entsorgen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasenmäher (elektrisch)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasensoden",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW (getrennt von sonstigen Grünabfällen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasentrimmer",
+    "text": "gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasierapparat",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rasierklingen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rattengift",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rauchmelder",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW (Batterien getrennt entsorgen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Raumspray",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Regale (als Möbelstück)",
+    "text": "Sperrmüll",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Regale (selbstgebaut, z.B. Kellerregal)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Regentonne",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Reinigungsbenzin",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Reinigungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rohrreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rollator (ohne Elektronik)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Rollstuhl/Rollator (nicht elektrisch)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Rolläden",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rostschutzmittel, -umwandler",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Rucksack",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Röntgenaufnahmen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Salben",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Salmiak",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Salze",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sanitärabfälle (aus Keramik und Kunststoff): Badewanne, Duschwanne, Duschkabine, Wasch- und Toilettenbecken, Spülkasten",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sanitärreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Satellitenschüssel (ohne LNB)",
+    "text": "Gebührenpflichtige Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sauerkrautplatte (Holzwolle-Leichtbauplatte)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Scanner",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schallplatten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schamottsteine",
+    "text": "Entsorgungserlaubnis der WAS erforderlich, sonst keine Abgabe möglich",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schaukelgestell (aus Metall oder Holz)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schaumstoff (Verpackungsmaterial)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schimmelbekämpfungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schirmständer",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Schlitten",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Schläuche",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schmiermittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schnellhefter (aus Kunststoff)",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schnuller",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schnüre",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schornsteinabbruch",
+    "text": "vorher Kontakt unter 05361 283231",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schrank (ohne Elektronik und Leuchtmittel)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Schraubverschlüsse",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schreibmaschine",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schreibtischstuhl",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Schubkarre",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schuhe (gebrauchsfähig)",
+    "text": "Alttextilbehälter, sonst Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schuppen (Gartenhaus)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schweißgerät",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schwimmflügel",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schwämme",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Schädlingsbekämpfungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sekundenkleber",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Servietten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sessel",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Shampoo",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sicherungen",
+    "text": "Elektronikschrottsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ski und Skistöcke",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Skischuhe",
+    "text": "Restmüllbehälter (nicht im Textilcontainer entsorgen!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Slipeinlagen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sofa",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Solarium (Leuchtstoffröhren entfernen und getrennt abgeben)",
+    "text": "Gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Solarleuchten",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sonnenbank",
+    "text": "s. unter Solarium",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sonnenkollektor (nur Photovoltaik)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sonnenschirm (kein Marktschirm)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Spanplatten (nicht von Möbelstücken)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Speisereste (pflanzlicher Art)",
+    "text": "Biotonne (ohne Plastiktüte, auch keine kompostierbaren Tüten nutzen!)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Speisereste (tierischer Art)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Speiseöl",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sperrabfall",
+    "text": "bis zu 4x jährlich 5 m³ kostenfreie Abholung nach Terminvereinbarung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sperrmüll",
+    "text": "bis zu 4x jährlich 5 mÂ³ kostenfreie Abholung nach Terminvereinbarung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spiegel (groß)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Spiegel (klein)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spiegelschrank (Leuchtmittel entfernen)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Spielzeug (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm Kantenlänge) oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spielzeug (nicht elektrisch)",
+    "text": "gelbe Wertstofftonne oder Sperrmüllabfuhr (wenn zu groß)",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Spiritus",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spraydosen (mit Inhalt)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spraydosen (restentleert)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spritzen",
+    "text": "im durchstichsicheren Behälter in den Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spüle (ohne E-Geräte)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Spülmaschine",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stacheldraht",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stapelboxen aus Metall oder Kunststoff",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Staubsauger",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Staubsaugerbeutel",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Steckdosen/Schalter",
+    "text": "Gebührenfreie Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stehlampe (Leuchtmittel getrennt abgeben)",
+    "text": "Gebührenfreie Selbstanlieferung zum EZW)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Steine",
+    "text": "s. unter Bauschutt",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Steingut (Kleinmenge)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Steinwolle",
+    "text": "s.u. Künstliche Mineralfaser",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stoffreste",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Strandkorb",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Straßenkehricht",
+    "text": "Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stromschienen",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stromzähler",
+    "text": "Kostenfreie Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Strümpfe, Strumpfhosen",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Stuhl",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Styropor (als Verpackungsmaterial)",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Styropor/Styrodur (Renovierungsabfall)",
+    "text": "Restmüllbehälter oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Surfbrett",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Säge (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm Größe) oder im EZW (alle Größen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Sägespäne",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Säuren",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tabletten",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tampons",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tapeten",
+    "text": "Restmüllbehälter oder Entsorgungszentrum Weyhäuser Weg 3",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Taschentücher",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tastatur",
+    "text": "Gebührenfreie Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tauchsieder",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teebeutel, Teeblätter",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teelichter",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teemaschine",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teerpappe",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teichfolie",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Telefon",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Teppich",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Teppich, Teppichfliesen",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Terpentin",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Terrarium (max. 1 m Kantenlänge/76 kg)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "TetraPak",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Textilien (keine Lumpen)",
+    "text": "s. Alttextilien",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Textmarker",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Thermometer (ohne Quecksilber)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Thermometer (wenn quecksilberhaltig)",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Thermoskanne",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tiefkühlverpackungen (aus Pappe)",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tierstreu (auch kompostierbare)",
+    "text": "Restmüllbehälter (aus hygienischen Gründen)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tinten- und Tonerkartuschen",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tischtennisplatte (zerlegt)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Toaster",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Toilettenbecken",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tonbandgeräte",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Toner",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Trampolin (Durchmesser ",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Trampolin (Durchmesser > 1 m)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Tretroller",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Tuben (restentleert)",
+    "text": "gelber Sack/Tonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Töpfe, Übertöpfe",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Türen (Fenster etc.)",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Türzargen",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW ",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Uhren (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Unkrautbekämpfungsmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Unterbodenschutz",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Vasen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ventilator (Tischgerät)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ventilator (über 50 cm Kantenlänge)",
+    "text": "Gebührenfreie Abgabe im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verbandmaterial",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verdünner",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verlängerungskabel",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen (stark verschmutzt oder unvollständig entleert)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen aus Glas",
+    "text": "Altglascontainer",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen aus Kunststoff",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen aus Metall",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen aus Papier/Pappe",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Verpackungen aus Verbundmaterial",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Videocassetten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Videogeräte",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "WC-Becken/-spülkasten",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "WC-Reiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wachs u. Kerzenreste",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wand- oder Deckenpaneele",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Waschbecken",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Waschmaschine",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Waschmittelkartons",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Waschmittelreste",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wasserbettmatratze",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Wasserhahn",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wasserkocher",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Watte, Wattestäbchen",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Weichspüler",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Weihnachtsbäume/Christbäume",
+    "text": "Einsammlung im Januar: Termine beachten!",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Werkbank",
+    "text": "Kostenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Werkzeug (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle (bis 50 cm Kantenlänge) oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Werkzeug (nicht elektrisch)",
+    "text": "gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Windeln",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Winkelschleifer",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wolle",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wurzeln/Stammholz bis 20 cm Durchmesser",
+    "text": "Grünschnittannahmeplatz im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wurzeln/Stammholz über 20 cm Durchmesser",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW über die Hauptwaage",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Wäschekorb/Wäschewanne",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Wäschespinne, -ständer",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Wäschetrockner, -schleuder",
+    "text": "Gebührenfreie Abholung oder gebührenfreie Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Xylophon",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ytong",
+    "text": "Baustoffrecyclinganlage Fa. Otto Wolf, Weyhausen, Tel. 05362 97890",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zahnbürste (elektrisch)",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zahnbürste (nicht elektrisch)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zahnpastatuben",
+    "text": "Gelbe Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zaun",
+    "text": "Gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zeitschriften/Zeitungen",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zellstoff",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zelt (klein)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Zement, -reste",
+    "text": "s. unter Bauschutt",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zementsäcke",
+    "text": "Rückgabe im Handel (z.B. Baumärkte), nicht  zum Altpapier geben!",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ziegel",
+    "text": "s.unter Bauschutt",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zigarettenkippen (erkaltet!)",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zigarettenschachteln (ohne Folie u. Einlage)",
+    "text": "Altpapierbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Zitronen/Zitronenschalen",
+    "text": "Biotonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "iPhone, i-Pod",
+    "text": "Abgabe an mobiler Sammelstelle oder im EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "medizinischer Mund-/Nasenschutz",
+    "text": "Restabfallbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "mineralische Einstreu aus Käfigen oder Katzentoiletten",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "noch unbenutztes Feuerwerk",
+    "text": "unbrauchbar machen (z. B. Wässern) und kann dann in die Restmülltonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Äste",
+    "text": "s.unter Baum- u. Strauchschnitt",
+    "sperrmuell": false
   },
   {
     "begriff": "Öl",
@@ -125,23 +3185,38 @@
     "sperrmuell": false
   },
   {
-    "begriff": "Plastikeimer",
-    "text": "Gelber Sack / Wertstofftonne",
+    "begriff": "Ölbinder",
+    "text": "Problemabfallsammlung",
     "sperrmuell": false
   },
   {
-    "begriff": "Spiegel",
-    "text": "Restmüllbehälter oder Sperrmüll (kleinere Mengen)",
-    "sperrmuell": true
+    "begriff": "Ölfilter",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
   },
   {
-    "begriff": "Waschmaschine",
-    "text": "Sperrmüll (Elektro - Großgerät)",
-    "sperrmuell": true
+    "begriff": "Ölfässer",
+    "text": "Tankreinigungsfirmen kontakten",
+    "sperrmuell": false
   },
   {
-    "begriff": "Windeln",
-    "text": "Restmüllbehälter",
+    "begriff": "Ölofen (restentleert!)",
+    "text": "Haushaltsgroßgeräteabfuhr",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Ölradiatoren (restentleert!)",
+    "text": "Haushaltsgroßgeräteabfuhr",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Öltanks",
+    "text": "Tankreinigungsfirmen kontakten",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "ölverunreinigte Putzlappen etc.",
+    "text": "Problemabfallsammlung",
     "sperrmuell": false
   }
 ]
