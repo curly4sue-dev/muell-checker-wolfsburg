@@ -16,21 +16,40 @@
     <style>
         body { background: radial-gradient(circle at top, #2A2A2A 0%, #1A1A1A 100%); color: #F5F5F5; font-family: 'Inter', sans-serif; min-height: 100vh; overflow-x: hidden; }
         .gold-gradient { background: linear-gradient(135deg, #D4AF37 0%, #F1D279 50%, #D4AF37 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        .glass-card { background: rgba(42, 42, 42, 0.85); backdrop-filter: blur(20px); border: 1px solid rgba(212, 175, 55, 0.2); border-radius: 2rem; }
+        .glass-card { background: rgba(42, 42, 42, 0.9); backdrop-filter: blur(20px); border: 1px solid rgba(212, 175, 55, 0.3); border-radius: 2rem; }
         
-        /* Tonnen Animation */
-        .trash-container { position: relative; width: 120px; height: 150px; margin: 0 auto 2rem; cursor: pointer; }
-        .bin-body { position: absolute; bottom: 0; width: 100%; height: 80%; background: #D4AF37; border-radius: 0 0 1rem 1rem; box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: all 0.3s; }
-        .bin-lid { position: absolute; bottom: 80%; width: 110%; left: -5%; height: 15%; background: #F1D279; border-radius: 0.5rem; transform-origin: left center; transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+        /* Tonnen Animation & Der neue GLOW */
+        .trash-container { position: relative; width: 120px; height: 150px; margin: 0 auto 2.5rem; cursor: pointer; }
+        .bin-body { position: absolute; bottom: 0; width: 100%; height: 80%; background: #D4AF37; border-radius: 0 0 1rem 1rem; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transition: background 0.4s ease; z-index: 5; }
+        .bin-lid { position: absolute; bottom: 80%; width: 110%; left: -5%; height: 15%; background: #F1D279; border-radius: 0.5rem; transform-origin: left center; transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275), background 0.4s ease; z-index: 10; }
         .open .bin-lid { transform: rotate(-110deg); }
-        .bin-glow { position: absolute; inset: -10px; border-radius: 1rem; filter: blur(15px); opacity: 0.3; transition: background 0.5s; }
+        
+        /* Der pulsierende Schein */
+        .bin-glow { 
+            position: absolute; 
+            inset: -25px; 
+            border-radius: 50%; 
+            filter: blur(35px); 
+            opacity: 0; 
+            transition: all 0.5s ease; 
+            z-index: 1;
+        }
+        .open .bin-glow { 
+            opacity: 0.7; 
+            animation: pulse-glow 2s infinite ease-in-out; 
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.2); opacity: 0.8; }
+        }
     </style>
 </head>
 <body class="p-4">
     <div class="max-w-md mx-auto">
         <header class="mb-8 text-center pt-6">
             <h1 class="text-4xl font-bold gold-gradient mb-1">Müll-Checker</h1>
-            <p class="text-gold/60 uppercase tracking-tighter text-xs">Wolfsburg Premium App</p>
+            <p class="text-gold/60 uppercase tracking-widest text-[10px] font-bold">Wolfsburg Gold-Standard</p>
         </header>
 
         <div class="relative mb-8">
@@ -40,24 +59,20 @@
 
         <div id="ergebnisse" class="space-y-4 pb-10"></div>
 
-        <div id="detail" class="hidden fixed inset-0 bg-black/90 flex items-center justify-center p-4 z-50">
-            <div id="detailCard" class="glass-card w-full max-w-sm p-10 text-center relative">
-                
+        <div id="detail" class="hidden fixed inset-0 bg-black/95 flex items-center justify-center p-4 z-50">
+            <div id="detailCard" class="glass-card w-full max-w-sm p-10 text-center relative overflow-hidden">
                 <div class="trash-container" id="binContainer" onclick="schließen()">
                     <div id="glow" class="bin-glow"></div>
-                    <div class="bin-lid"></div>
-                    <div class="bin-body"></div>
+                    <div id="binLid" class="bin-lid"></div>
+                    <div id="binBody" class="bin-body"></div>
                 </div>
-
-                <h2 id="detailTitel" class="text-2xl font-bold gold-gradient mb-2"></h2>
-                <p id="detailText" class="text-weiss/80 mb-8 text-lg italic"></p>
-                
+                <h2 id="detailTitel" class="text-3xl font-bold gold-gradient mb-3 pr-2"></h2>
+                <p id="detailText" class="text-weiss/90 mb-8 text-lg font-medium leading-tight"></p>
                 <div id="sperrmuellLink" class="hidden mt-4">
                     <a href="https://was-wolfsburg.de/sperrmuell" target="_blank" 
-                       class="block w-full bg-gold text-anthrazit font-extrabold py-4 rounded-xl shadow-goldglow transition-transform active:scale-95">Sperrmüll-Termin</a>
+                       class="block w-full bg-gold text-anthrazit font-black py-5 rounded-2xl shadow-[0_0_20px_rgba(212,175,55,0.4)]">JETZT SPERRMÜLL ANMELDEN</a>
                 </div>
-                
-                <p class="text-gold/40 text-xs mt-6">Tippe auf die Tonne zum Schließen</p>
+                <p class="text-gold/40 text-[10px] mt-8 uppercase tracking-widest">Tippe auf die Tonne zum Schließen</p>
             </div>
         </div>
     </div>
@@ -68,7 +83,7 @@
             try {
                 const res = await fetch('data.json');
                 if (res.ok) muellDaten = await res.json();
-            } catch (e) { console.log("Offline-Modus"); }
+            } catch (e) { console.log("Ladefehler data.json"); }
         }
         ladeDaten();
 
@@ -79,15 +94,11 @@
             const val = e.target.value.toLowerCase().trim();
             list.innerHTML = '';
             if (val.length < 2) return;
-
-            const treffer = muellDaten.filter(m => 
-                m.begriff.toLowerCase().includes(val) || m.text.toLowerCase().includes(val)
-            ).slice(0, 15);
-
+            const treffer = muellDaten.filter(m => m.begriff.toLowerCase().includes(val) || m.text.toLowerCase().includes(val)).slice(0, 15);
             treffer.forEach(m => {
                 const d = document.createElement('div');
-                d.className = 'glass-card p-5 cursor-pointer hover:bg-gold/5 transition-all flex justify-between items-center animate-in slide-in-from-bottom-4';
-                d.innerHTML = `<span class="font-medium">${m.begriff}</span><i data-lucide="arrow-right" class="w-5 h-5 text-gold"></i>`;
+                d.className = 'glass-card p-5 cursor-pointer hover:bg-gold/10 transition-all flex justify-between items-center border-gold/10';
+                d.innerHTML = `<span class="font-bold text-weiss/90">${m.begriff}</span><i data-lucide="chevron-right" class="w-6 h-6 text-gold"></i>`;
                 d.onclick = () => öffnen(m);
                 list.appendChild(d);
             });
@@ -98,32 +109,40 @@
             document.getElementById('detailTitel').innerText = m.begriff;
             document.getElementById('detailText').innerText = m.text;
             
-            // Tonnen-Farbe basierend auf Müllart anpassen
             const glow = document.getElementById('glow');
+            const binBody = document.getElementById('binBody');
+            const binLid = document.getElementById('binLid');
             const txt = m.text.toLowerCase();
-            if(txt.includes('gelb')) glow.style.background = '#fbbf24';
-            else if(txt.includes('blau') || txt.includes('papier')) glow.style.background = '#3b82f6';
-            else if(txt.includes('bio')) glow.style.background = '#10b981';
-            else glow.style.background = '#D4AF37';
+
+            let color = '#D4AF37'; // Standard Gold
+            let lidColor = '#F1D279';
+
+            if(txt.includes('gelb') || txt.includes('wertstoff') || txt.includes('leichtverpackung') || txt.includes('sack')) {
+                color = '#FFD700'; lidColor = '#FFFACD'; // Sattes Gelb
+            } else if(txt.includes('blau') || txt.includes('papier') || txt.includes('pappe')) {
+                color = '#1E90FF'; lidColor = '#87CEFA'; // Kräftiges Blau
+            } else if(txt.includes('restmüll') || txt.includes('grau') || txt.includes('schwarz')) {
+                color = '#4B4B4B'; lidColor = '#696969'; // Dunkles Grau
+            } else if(txt.includes('bio') || txt.includes('grün') || txt.includes('garten')) {
+                color = '#2E8B57'; lidColor = '#3CB371'; // Bio-Grün
+            }
+
+            binBody.style.backgroundColor = color;
+            binLid.style.backgroundColor = lidColor;
+            glow.style.backgroundColor = color;
 
             document.getElementById('detail').classList.remove('hidden');
-            setTimeout(() => {
-                document.getElementById('binContainer').classList.add('open');
-            }, 100);
+            setTimeout(() => document.getElementById('binContainer').classList.add('open'), 100);
 
             const btn = document.getElementById('sperrmuellLink');
             if (m.sperrmuell || txt.includes('sperrmüll')) btn.classList.remove('hidden');
             else btn.classList.add('hidden');
-            lucide.createIcons();
         }
 
         function schließen() {
             document.getElementById('binContainer').classList.remove('open');
-            setTimeout(() => {
-                document.getElementById('detail').classList.add('hidden');
-            }, 400);
+            setTimeout(() => document.getElementById('detail').classList.add('hidden'), 400);
         }
-
         lucide.createIcons();
     </script>
 </body>
