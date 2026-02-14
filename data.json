@@ -1,0 +1,147 @@
+[
+  {
+    "begriff": "Abbeizmittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Abdeckfolie (verunreinigt)",
+    "text": "Restmüllbehälter oder gebührenpflichtige Selbstanlieferung zum EZW",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Abflussreiniger",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aceton",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Acrylfarbe",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Akkus bis 500 g",
+    "text": "Rücknahmesysteme in Handel/Vertrieb oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aktenkoffer",
+    "text": "Restmüllbehälter oder Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Altarzneimittel",
+    "text": "Abgabe in Apotheken oder Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Altglas (Flaschen, Konserven)",
+    "text": "Altglascontainer (nach Farben getrennt)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Altpapier / Pappe / Zeitungen",
+    "text": "Altpapierbehälter (Blaue Tonne)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Aquarium (bis 1m)",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bade- / Duschwanne",
+    "text": "Sperrmüllabfuhr (Metall/Kunststoff getrennt)",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Besteck (Gabel, Löffel, Messer)",
+    "text": "Restmüllbehälter oder Metallschrott",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Bett / Bettgestell",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Bobbycar",
+    "text": "Sperrmüllabfuhr (Kunststoff) oder Wertstoffhof",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Couch / Sofa / Sessel",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Eimer (Kunststoff / Plastik)",
+    "text": "Gelber Sack / Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Eimer (Metall)",
+    "text": "Restmüllbehälter oder Schrott",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Fahrrad",
+    "text": "Sperrmüllabfuhr (Metallschrott)",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Gabel",
+    "text": "Restmüllbehälter (Metall)",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Gartenmöbel",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Haarfärbemittel",
+    "text": "Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Katzentoilette / Einstreu",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Matratze",
+    "text": "Sperrmüllabfuhr",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Öl",
+    "text": "Rückgabe an Handel, Hersteller oder Vertrieb bei Vorlage des Kaufbelegs, sonst Problemabfallsammlung",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Plastikeimer",
+    "text": "Gelber Sack / Wertstofftonne",
+    "sperrmuell": false
+  },
+  {
+    "begriff": "Spiegel",
+    "text": "Restmüllbehälter oder Sperrmüll (kleinere Mengen)",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Waschmaschine",
+    "text": "Sperrmüll (Elektro - Großgerät)",
+    "sperrmuell": true
+  },
+  {
+    "begriff": "Windeln",
+    "text": "Restmüllbehälter",
+    "sperrmuell": false
+  }
+]
