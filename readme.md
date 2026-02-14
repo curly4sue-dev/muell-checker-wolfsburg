@@ -1,3 +1,4 @@
+![Header](header.png)
 # 🗑️ Müll-Checker Wolfsburg – Goldstaub Edition
 
 Ein hochperformantes, mobiles Web-Tool zur blitzschnellen Entsorgungs-Suche für die Stadt Wolfsburg. Optimiert für Geschwindigkeit, Ästhetik und intuitive Bedienung am „Nullpunkt“.
